@@ -25,7 +25,7 @@ This repository demonstrates the use of Vision Transformers (ViT) for classifyin
 ## Usage
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook "ViT_Classification_Brain_Tumor.ipynb"
+   jupyter notebook "ViT_Classification+Visualization.ipynb"
    ```
 2. Follow the steps in the notebook to:
    - Preprocess the Brain Tumor dataset.
